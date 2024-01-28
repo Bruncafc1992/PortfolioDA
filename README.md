@@ -15,7 +15,7 @@ Se proporcionan los queries necesarios para generar cada una de las siguientes t
 Se adjunta un archivo RAW para su importación y limpieza con MySQL.
 
 ### Archivos Relevantes
-- [**Nashville Housing Data for Data Cleaning (reuploaded).csv**](/Nashville Housing Data for Data Cleaning (reuploaded).csv): Archivo crudo que contiene datos de viviendas en Nashville.
+- [**Nashville Housing Data for Data Cleaning (reuploaded).csv**](/Nashville%20Housing%20Data%20for%20Data%20Cleaning%20%28reuploaded%29.csv): Archivo crudo que contiene datos de viviendas en Nashville.
 
 ### Instrucciones de Limpieza
 1. **Creación de la Base de Datos y Tabla:** Utiliza el script SQL proporcionado para crear la base de datos y la tabla necesarias.
